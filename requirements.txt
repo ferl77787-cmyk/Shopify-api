@@ -1,4 +1,3 @@
-requests
+aiohttp
 flask
-telethon
-pyrogram
+gunicorn
